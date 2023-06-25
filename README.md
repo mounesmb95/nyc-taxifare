@@ -1,2 +1,2 @@
 # nyc-taxifare
-Data Science Project on Anakond PROMT
+Data Science Project on Anacond PROMT
